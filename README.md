@@ -1,2 +1,3 @@
 # Python-Pi_FPC-FFC-Connector
-Raspberry Pi....
+Raspberry Pi gpio pins extensions. 
+40pin 0.5mm pitch top or bottom connector (Molex). 
